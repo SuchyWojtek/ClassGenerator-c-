@@ -1,0 +1,9 @@
+C:\Users\Wojtek\Documents\Visual Studio 2015\Projects\ClassGenerator\ClassGenerator\bin\Debug\ClassGenerator.exe.config
+C:\Users\Wojtek\Documents\Visual Studio 2015\Projects\ClassGenerator\ClassGenerator\obj\Debug\ClassGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Wojtek\Documents\Visual Studio 2015\Projects\ClassGenerator\ClassGenerator\obj\Debug\ClassGenerator.Form1.resources
+C:\Users\Wojtek\Documents\Visual Studio 2015\Projects\ClassGenerator\ClassGenerator\obj\Debug\ClassGenerator.Properties.Resources.resources
+C:\Users\Wojtek\Documents\Visual Studio 2015\Projects\ClassGenerator\ClassGenerator\obj\Debug\ClassGenerator.csproj.GenerateResource.Cache
+C:\Users\Wojtek\Documents\Visual Studio 2015\Projects\ClassGenerator\ClassGenerator\bin\Debug\ClassGenerator.exe
+C:\Users\Wojtek\Documents\Visual Studio 2015\Projects\ClassGenerator\ClassGenerator\bin\Debug\ClassGenerator.pdb
+C:\Users\Wojtek\Documents\Visual Studio 2015\Projects\ClassGenerator\ClassGenerator\obj\Debug\ClassGenerator.exe
+C:\Users\Wojtek\Documents\Visual Studio 2015\Projects\ClassGenerator\ClassGenerator\obj\Debug\ClassGenerator.pdb
